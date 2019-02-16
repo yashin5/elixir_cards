@@ -38,7 +38,7 @@ defmodule Cards do
   ## Examples 
 
       iex> deck = Cards.create_deck()
-      iex>  Cards.deal(deck, 1)
+      iex> Cards.deal(deck, 1)
       ["Ace of Spades"]
 
   """
